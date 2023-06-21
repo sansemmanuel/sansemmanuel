@@ -5,6 +5,7 @@ Soy un desarrollador entusiasta y apasionado por la tecnología. Me encanta apre
 Actualmente estoy estudiando la tecnicatura en desarrollo de aplicaciones para ampliar mis conomicientos y oportunidades.
 
 ## Habilidades
+- .Net ↻
 - Programación en C ↻
 - Desarrollo web con HTML, CSS y JavaScript
 - Analisis de datos
